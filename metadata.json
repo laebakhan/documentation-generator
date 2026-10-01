@@ -1,0 +1,6 @@
+{
+  "name": "Project Guide",
+  "description": "Turn your project details into clear, professional documentation and README.md files automatically.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
